@@ -1,10 +1,26 @@
 # DSimonson1251.github.io
 CSPB 3112 Website
+## Week 4 Update 
+What did you do last week?
+
+Last week I polished off and submitted my proposal. I took the Time to also build out a schedule so I can stay on track week over week. 
+I started to get more familiar with some of the concepts like Pygame that I will potentially be using and started reading up on tips.  
+
+What do you plan to do this week?
+
+This week I will start by playing my game a few times and take notes on different components and how they might be written in coding logic. 
+
+Are there any impediments in your way?
+
+Convincing my wife to play with me might be a solid impediment, luckily the game can be played solo, its just not as much fun. 
+
+Reflection on the process you used last week, how can you make the process work better?
+I need to be better overall at time management, being my last semester has made it so that I am not as focused as I should be. 
+I need to do the postings earlier in the week and not leave so much until Friday. 
+
 ## Week 3 Update
 
 
-
-Week 3 Update
 What did you do last week?
 
 Last week I worked with Professor Guinn to finalize my ideas and lock in what I plan to do my project on. 
