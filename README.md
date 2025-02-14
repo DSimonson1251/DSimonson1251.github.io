@@ -1,5 +1,21 @@
 # DSimonson1251.github.io
 CSPB 3112 Website
+## Week 5 Update 
+What did you do last week?
+
+Last week I played through he game a few times getting an idea of what components I want to focus on in the scope of this project.
+
+What do you plan to do this week?
+
+This week I will set up a coding environment and start working on a requirements document to list out what needs to be done. 
+
+Are there any impediments in your way?
+
+None this week, I have ample time and this should be achievable in the time allotted. 
+
+Reflection on the process you used last week, how can you make the process work better? 
+Reminding myself consistently that the goal is not a polished full game at the end is huge. I want to have something I am proud of but also want to ensure that I am able to get the rest of my school work done. 
+
 ## Week 4 Update 
 What did you do last week?
 
