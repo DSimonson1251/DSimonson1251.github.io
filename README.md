@@ -1,5 +1,21 @@
 # DSimonson1251.github.io
 CSPB 3112 Website
+## Week 6 Update 
+What did you do last week?
+
+Last week I spent time finding the images I want to use for my game. A majority of this was taking clean pictures of the actual board game. Having the right scale was challenging so I had to measure and calculate a lot to ensure that it looks accurate to scale. I added all of these to the folder I am primarily using for this project trying to keep labels nice and clean. 
+
+What do you plan to do this week?
+
+This Week I will work on programing a turn structure and basic game play mechanics for a single player run through. 
+
+Are there any impediments in your way?
+
+The biggest impediment was not necessarily a bad thing this week. I had a job interview that occupied a majority of my time, I wanted to have as much prepped and reviewed for that, which is why I opted to go with a more simple week of uploading images. 
+
+Reflection on the process you used last week, how can you make the process work better? 
+Now that I have some of the material uploaded It will be easier to add the rest since the scale has been established. 
+
 ## Week 5 Update 
 What did you do last week?
 
