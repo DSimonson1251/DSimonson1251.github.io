@@ -1,5 +1,22 @@
 # DSimonson1251.github.io
 CSPB 3112 Website
+## Week 7 Update 
+What did you do last week?
+
+Last week I spent time building out a generic turn structure. The game has 12-13 (depending on how you interpret the options) different actions a player can do on their turn. I added functions for each of these options. Most of these functions are empty currently, but the overall game undrstands a player gets 3 of these actions before the between turn mechanic starts. 
+
+What do you plan to do this week?
+
+I plan to start to fill out these functions. Not all of them will get done through this course due to time but the more common functions such as Midgard, Asgard and the Dwarven Forges. These all will require other game components to be added such as cards or tiles. 
+
+Are there any impediments in your way?
+
+At this point my skill as a coder is the only thing holding me back. I am having to learn on the fly and google much of what I am trying to do, while this is great because I am learning, it slows the process drastically. 
+
+Reflection on the process you used last week, how can you make the process work better? 
+Last week was great, I think it was one of my most effective weeks through the class. I just need to keep this up moving forward. 
+
+
 ## Week 6 Update 
 What did you do last week?
 
