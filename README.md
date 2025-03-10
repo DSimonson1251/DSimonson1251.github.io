@@ -1,5 +1,22 @@
 # DSimonson1251.github.io
 CSPB 3112 Website
+## Week 8 Update 
+What did you do last week?
+
+I wrote out rough drafts of the Asgard function and I created new structures to keep track of the viking vs fire giant ratio for the 4 bags on the Midgard Location 
+What do you plan to do this week?
+
+I Plan to finish working on the Midgard function, adding a tracker for where the Valkyries are as well as making sure the viking and giant counts are kept properly up to date
+
+Are there any impediments in your way?
+
+Time is the biggest one, Personal travel is ramping up and my family might be moving again here shortly. 
+
+Reflection on the process you used last week, how can you make the process work better? 
+Do not do the weekly update from Airport wifi, It will not go through all the way. 
+I can also pace myself more and understand that some of these will take more than a week. The pressure is more from myself not from the course work schedule. 
+
+
 ## Week 7 Update 
 What did you do last week?
 
