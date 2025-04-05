@@ -1,5 +1,20 @@
 # DSimonson1251.github.io
 CSPB 3112 Website
+
+## Week 11(Post Spring Break)
+What did you do last week?
+
+This past week was mostly spent on clean up of previously written code. 
+I was returning from my trip to New Zealand so I had to take things light and there were a number of components that needed to be fixed up. 
+What do you plan to do this week?
+This week I want to write the function for Nidavellir. This functions adds permanant changes to each player that impact a variety of components, I worry this will require a lot more debugging than I anticipate. 
+
+Are there any impediments in your way?
+None this week other than time commitments. 
+
+Reflection on the process you used last week, how can you make the process work better? 
+I feel that given my travel and time limits this week I feel like I did the best I could. 
+
 ## Week 8 Update 
 What did you do last week?
 
