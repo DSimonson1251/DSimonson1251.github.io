@@ -1,5 +1,18 @@
 # DSimonson1251.github.io
 CSPB 3112 Website
+## Week 12
+What did you do last week?
+
+I wrote the function for Nidavellir, this proved more complex that anticipated and I am still working on getting it right. 
+What do you plan to do this week?
+I think with one more week of focus I can knock out the Nidavbellir function and all of the cards that are included in that function. 
+
+Are there any impediments in your way?
+I got super sick after my trip and the energy has been low, I am finally feeling better and less groggy. Hopeing I can work at a faster pace this next week. 
+
+Reflection on the process you used last week, how can you make the process work better? 
+I think the process I used was perfect, Just some outside forces that caused a slower pace than normal, 
+I hope that me feeling better will help a lot. 
 
 ## Week 11(Post Spring Break)
 What did you do last week?
