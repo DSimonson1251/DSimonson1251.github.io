@@ -1,5 +1,22 @@
 # DSimonson1251.github.io
 CSPB 3112 Website
+## Week 13
+What did you do last week?
+This past week I managed to get everything done for the mechanics of the game play that I intend to get done. 
+I have 4-5 functions depending on how you look at the game all up and running with no bugs noticed so far
+
+What do you plan to do this week?
+Time to add in a lot of the visuals, I was very focused on getting the functionality done the asthetics were not a priority. 
+
+Are there any impediments in your way?
+My copy of the game that I am using is, lets just say Loved, and the pieces are not as vibrent as they once were. 
+It is a retired game and it has been a challenge to find images online that are clean and crisp. 
+This has resulted in a lot of less than ideal quality images. 
+
+Reflection on the process you used last week, how can you make the process work better? 
+Last week was my most productive week so far, wouldn't chagne a thing. 
+
+
 ## Week 12
 What did you do last week?
 
